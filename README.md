@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meddlin
+# Hi, I’m Darrien! 👋 (@meddlin)
 - 👀 I’m interested in application security.
 - 🌱 I’m currently learning Python!
 - 📫 How to reach me drushing.dev@gmail.com
