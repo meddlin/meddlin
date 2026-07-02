@@ -18,10 +18,6 @@ Tools for AppSec |	A developer-friendly AppSec tool suite and companion e-book f
 Markdown Reflow	| A VS Code extension for cleaning up and reflowing Markdown while writing.
 CVE Explorer CLI| A terminal tool for exploring CVEs, CVSS, EPSS, KEV, and vulnerability data.
 
-## Tech I use often
-
-Python · TypeScript · JavaScript · Next.js · React · GitHub Actions · Docker · SQLite · Postgres · AppSec Automation
-
 ## Socials
 
 - 🌐 [rushinglabs.com](https://www.rushinglabs.com/)
