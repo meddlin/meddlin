@@ -7,7 +7,6 @@ My motto is simple: keep building.
 I build tools, write about application security, and experiment with software that helps developers move faster without losing sight of security, privacy, and maintainability.
 
 🌐 Website: rushinglabs.com
-📫 Email: drushing.dev@gmail.com
 🛠️ GitHub: @meddlin
 
 ## What I’m building right now
